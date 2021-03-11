@@ -7,7 +7,7 @@ I aim to design for and build human-centered solutions by developing digital con
 
 | Languages | Libraries | Frameworks | IDEs | Design  |
 |---|---|---|---|---|
-| HTML, CSS, JavaScript | React.js, jQuery, Node.js | Dash, Express.js, Bootstrap, Semantic UI  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate |
+| HTML, CSS, JavaScript | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate |
 
 #
 
