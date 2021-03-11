@@ -5,9 +5,9 @@ I aim to design for and build human-centered solutions by developing digital con
 
 ##
 
-| Languages | Libraries | Frameworks | IDEs | Design  |
-|---|---|---|---|---|
-| HTML, CSS, JavaScript | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate |
+| Languages | Libraries | Frameworks | IDEs | Design  | Product / Project Management  |
+|---|---|---|---|---|---|
+| HTML, CSS, JavaScript | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Miro, Jira, Trello, Zenhub, Basecamp |
 
 #
 
