@@ -3,6 +3,23 @@
 
 I aim to design for and build human-centered solutions by developing digital content through the lens of intentional design. I am a recent graduate of Florida State University and boot-camp graduate of Columbia Engineering's Full-Stack Development Program seeking a full-time position in user experience design and engineering.
 
+##
+
 | Languages | Libraries | Frameworks | IDEs | Design  |
 |---|---|---|---|---|
-| HTML, CSS, JavaScript, SQL, Python | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash, Docker  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate |
+| HTML, CSS, JavaScript | React.js, jQuery, Node.js | Dash, Express.js, Bootstrap, Semantic UI  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate |
+
+#
+
+### Rosenblatt AI
+An applied artificial intelligence lab focused on scalability, efficiency, and sustainability.
+
+#### JobReport - User Experience Engineer ( Feb 2020 - Present )
+- Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application using React and Dash.
+
+| |
+|---|
+| k8s, docker, docker-compose, terraform, bash, boto3, python, dash, react, flask, css  |
+
+#
+
