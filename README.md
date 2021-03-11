@@ -17,9 +17,9 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 #### JobReport - User Experience Engineer ( Feb 2020 - Present )
 - Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application using React and Dash.
 
-| |
+|   |
 |---|
-| k8s, docker, docker-compose, terraform, bash, boto3, python, dash, react, flask, css  |
+| K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js) |
 
 #
 
