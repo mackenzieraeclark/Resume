@@ -27,7 +27,6 @@ An independent organization that aims to bridge the gap between research and pra
 #### Web Developer  | Nov 2020 - Feb 2021
 - Design and development of React website as a platform for clients to learn about and inquire further consultation for RENI's services.
 
-|   |
 |---|
 | React.js, HTML+CSS, Email.js, Adobe Xd, Procreate  |
 
