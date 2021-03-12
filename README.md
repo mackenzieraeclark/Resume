@@ -23,7 +23,7 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 
 #
 
-### RENI Consultancy LLC
+### [RENI Consultancy LLC](https://reniconsultancy.com/)
 An independent organization that aims to bridge the gap between research and practice, funding and evaluation, and clients and service providers.
 
 #### Web Developer (Nov 2020 - Feb 2021)
@@ -37,7 +37,7 @@ An independent organization that aims to bridge the gap between research and pra
 
 ### Bubbly Robot LLC 
 
-#### Tony Wright Art - Web Developer (Oct 2020 - Dec 2020)
+#### [Tony Wright Art](http://tonywright-art.com/) - Web Developer (Oct 2020 - Dec 2020)
 - Worked with a team of 5 developers to refactor a slide show feature from Adobe Flash Player to a more modern, responsive format before deprecation.
 
 |   |
