@@ -54,3 +54,9 @@ An independent organization that aims to bridge the gap between research and pra
 | Wordpress, Elementor, Adobe Xd, Adobe Illustrator  |
 
 #
+
+## Projects
+
+#
+
+## Education
