@@ -11,7 +11,7 @@ I aim to design for and build human-centered solutions by developing digital con
 
 #
 
-### Rosenblatt AI
+### Rosenblatt LLC
 An applied artificial intelligence lab focused on scalability, efficiency, and sustainability.
 
 #### JobReport - User Experience Engineer ( Feb 2021 - Present )
@@ -23,7 +23,7 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 
 #
 
-### RENI Consultancy
+### RENI Consultancy LLC
 An independent organization that aims to bridge the gap between research and practice, funding and evaluation, and clients and service providers.
 
 #### Web Developer (Nov 2020 - Feb 2021)
@@ -34,3 +34,12 @@ An independent organization that aims to bridge the gap between research and pra
 | React.js, HTML+CSS, Email.js  |
 
 #
+
+### Bubbly Robot LLC 
+
+#### Tony Wright Art - Web Developer (Oct 2020 - Dec 2020)
+- Worked with a team of 5 developers to refactor a slide show feature from Adobe Flash Player to a more modern, responsive format before deprecation.
+
+|   |
+|---|
+| jQuery, HTML+CSS, Adobe Photoshop  |
