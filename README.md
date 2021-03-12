@@ -19,7 +19,7 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 
 |   |
 |---|
-| K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js) |
+| K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js), Figma, Adobe Illustrator |
 
 #
 
@@ -31,7 +31,7 @@ An independent organization that aims to bridge the gap between research and pra
 
 |   |
 |---|
-| React.js, HTML+CSS, Email.js  |
+| React.js, HTML+CSS, Email.js, Adobe Xd, Procreate  |
 
 #
 
@@ -46,4 +46,11 @@ An independent organization that aims to bridge the gap between research and pra
 
 #
 
+### [Business Fitness, Inc](https://businessfitnessinc.com/)
+- Development of Wordpress site using Elementor to advance ability to do virtual client consultation and adapt to remote needs in the face of Covid-19.
 
+|   |
+|---|
+| Wordpress, Elementor, Adobe Xd, Adobe Illustrator  |
+
+#
