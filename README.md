@@ -35,6 +35,7 @@ An independent organization that aims to bridge the gap between research and pra
 #### [Tony Wright Art](http://tonywright-art.com/) - Web Developer |  Oct 2020 - Dec 2020
 - Worked with a team of 5 developers to refactor a slide show feature from Adobe Flash Player to a more modern, responsive format before deprecation.
 - Participated in weekly scrum meetings and utilized Jira for task management.
+
 |   |
 |---|
 | jQuery, HTML+CSS, Adobe Photoshop, Jira  |
@@ -44,6 +45,7 @@ An independent organization that aims to bridge the gap between research and pra
 ### [Business Fitness, Inc](https://businessfitnessinc.com/)
 #### Web Designer | Jan 2020 - Jun 2020
 - Development of WordPress site using Elementor to advance ability to do virtual client consultation and adapt to remote needs in the face of Covid-19.
+
 |   |
 |---|
 | WordPress, Elementor, Adobe Xd, Adobe Illustrator  |
