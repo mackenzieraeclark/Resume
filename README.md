@@ -14,8 +14,8 @@ I aim to design for and build human-centered solutions by developing digital con
 ### Rosenblatt AI
 An applied artificial intelligence lab focused on scalability, efficiency, and sustainability.
 
-#### JobReport - User Experience Engineer ( Feb 2020 - Present )
-- Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application using React and Dash.
+#### JobReport - User Experience Engineer ( Feb 2021 - Present )
+- Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application.
 
 |   |
 |---|
@@ -23,3 +23,8 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 
 #
 
+### RENI Consultancy
+An independent organization that aims to bridge the gap between research and practice, funding and evaluation, and clients and service providers.
+
+#### Web Developer (Nov 2020 - Feb 2021)
+- Design and development of React website as a platform for clients to learn about and inquire further consultation for RENI's services.
