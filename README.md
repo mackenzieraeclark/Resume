@@ -3,13 +3,9 @@
 
 I aim to design for and build human-centered solutions by developing digital content through the lens of intentional design. I am a recent graduate of Florida State University and boot-camp graduate of Columbia Engineering's Full-Stack Development Program seeking a full-time position in user experience design and engineering.
 
-##
-
 | Languages | Libraries | Frameworks | IDEs | Design  | Product / Project Management  |
 |---|---|---|---|---|---|
 | HTML, CSS, JavaScript | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Miro, Jira, Trello, Zenhub, Basecamp |
-
-#
 
 ### Rosenblatt LLC
 An applied artificial intelligence lab focused on scalability, efficiency, and sustainability.
@@ -21,7 +17,6 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 |---|
 | K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js), Figma, Adobe Illustrator |
 
-#
 
 ### [RENI Consultancy LLC](https://reniconsultancy.com/)
 An independent organization that aims to bridge the gap between research and practice, funding and evaluation, and clients and service providers.
@@ -33,30 +28,40 @@ An independent organization that aims to bridge the gap between research and pra
 |---|
 | React.js, HTML+CSS, Email.js, Adobe Xd, Procreate  |
 
-#
 
 ### Bubbly Robot LLC 
 
 #### [Tony Wright Art](http://tonywright-art.com/) - Web Developer (Oct 2020 - Dec 2020)
 - Worked with a team of 5 developers to refactor a slide show feature from Adobe Flash Player to a more modern, responsive format before deprecation.
+- Participated in weekly scrum meetings and utilized Jira for task management.
 
 |   |
 |---|
-| jQuery, HTML+CSS, Adobe Photoshop  |
+| jQuery, HTML+CSS, Adobe Photoshop, Jira  |
 
-#
 
 ### [Business Fitness, Inc](https://businessfitnessinc.com/)
-- Development of Wordpress site using Elementor to advance ability to do virtual client consultation and adapt to remote needs in the face of Covid-19.
+- Development of WordPress site using Elementor to advance ability to do virtual client consultation and adapt to remote needs in the face of Covid-19.
 
 |   |
 |---|
-| Wordpress, Elementor, Adobe Xd, Adobe Illustrator  |
+| WordPress, Elementor, Adobe Xd, Adobe Illustrator  |
 
-#
+### [223_ Agency](https://www.223agency.com/)
+
+#### Web Development Intern (Feb 2019 - Apr 2019)
+- Refactored existing client websites using Local by Flywheel to make direct changes to CSS and WordPress PHP
+- Experience with daily stand-ups, moving tickets in Basecamp, and following an agile work flow.
+
+|   |
+|---|
+| HTML+CSS, Local by Flywheel, WordPress PHP, Basecamp  |
+
+
+
 
 ## Projects
 
-#
+
 
 ## Education
