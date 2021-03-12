@@ -31,6 +31,6 @@ An independent organization that aims to bridge the gap between research and pra
 
 |   |
 |---|
-| React, CSS, Email.js  |
+| React.js, HTML+CSS, Email.js  |
 
 #
