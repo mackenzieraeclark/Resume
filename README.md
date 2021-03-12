@@ -15,7 +15,7 @@ An applied artificial intelligence lab focused on scalability, efficiency, and s
 #### JobReport - User Experience Engineer | Feb 2021 - Present
 - Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application.
 
-|   |
+| Tools  |
 |---|
 | K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js), Figma, Adobe Illustrator |
 
@@ -27,7 +27,7 @@ An independent organization that aims to bridge the gap between research and pra
 #### Web Developer  | Nov 2020 - Feb 2021
 - Design and development of React website as a platform for clients to learn about and inquire further consultation for RENI's services.
 
-| Technologies & Tools |
+| Tools |
 |---|
 | React.js, HTML+CSS, Email.js, Adobe Xd, Procreate  |
 
