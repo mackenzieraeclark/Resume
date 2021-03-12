@@ -70,9 +70,42 @@ An independent organization that aims to bridge the gap between research and pra
 
 ### Florida State University | 2015 - 2019
 #### Bachelor of Science, International Affairs *concentration in Public Administration*
+
 Second Major in Interdisciplinary Humanities: Spanish, Communications, & Digital Humanities
+
 *Social Innovation & Entrepreneurship Ecosystem*
 
 ---
 
 ## Projects
+
+### [Borough'd](https://aptreact.web.app/)
+A React-based socially-driven, real estate marketplace and rental listings app for uploading, searching and favoriting crowd-sourced walkthrough videos.
+
+#### [GitHub Repository](https://github.com/tylerlibstag/muchXc1te)
+
+|   |
+|---|
+| HTML+CSS, JavaScript, React.js, Heroku, Firebase, Adobe XD, Adobe Illustrator, Procreate  |
+
+---
+
+### [Heimdall](https://heimdall-36558.herokuapp.com/)
+A simple inventory management app that allows users to add and update their invetory of products, as well as put in orders to purchase and sell inventory products.
+
+#### [GitHub Repository](https://github.com/tabouzeid/heimdall)
+
+|   |
+|---|
+| HTML+CSS, JavaScript, Bootstrap, Node, Express, MySQL, Sequelize, Heroku, Adobe XD, Adobe Illustrator  |
+
+---
+
+### [Scribe](https://stormy-badlands-96335.herokuapp.com/)
+A note-taker application to organize and manage your notes directly in the browser and update them anywhere, from any device.
+
+#### [GitHub Repository](https://github.com/mackenzieraeclark/Scribe)
+
+|   |
+|---|
+| HTML+CSS, JavaScript, Express.js, Node.js, Heroku, Procreate |
