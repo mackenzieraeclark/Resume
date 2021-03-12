@@ -68,6 +68,8 @@ An independent organization that aims to bridge the gap between research and pra
 ### Columbia Engineering | 2020
 #### Full-stack Software Development Certificate Program
 
+----
+
 ### Florida State University | 2015 - 2019
 #### Bachelor of Science, International Affairs *concentration in Public Administration*
 
