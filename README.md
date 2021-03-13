@@ -68,7 +68,7 @@ An independent organization that aims to bridge the gap between research and pra
 ## Education
 
 ### Columbia Engineering | 2020
-#### Full-stack Software Development Certificate Program
+#### Full Stack Software Development Certificate Program
 
 ----
 
