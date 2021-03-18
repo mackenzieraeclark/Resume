@@ -1,5 +1,5 @@
 # Mackenzie Clark
-#### [clark.rmackenzie@gmail.com](mailto:clark.rmackenzie@gmail.com)  | 732-718-8358  | [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/)  | [GitHub](https://github.com/mackenzieraeclark)  | [Portfolio](https://mackenzieraeclark.github.io/)
+#### [clark.rmackenzie@gmail.com](mailto:clark.rmackenzie@gmail.com)  | 732-718-8358  | [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/)  | [GitHub](https://github.com/mackenzieraeclark)
 
 I aim to design for and build human-centered solutions by developing digital content through the lens of intentional design. I am actively seeking a full-time position in user experience engineering.
 
