@@ -5,15 +5,28 @@ I aim to design for and build human-centered solutions by developing digital con
 
 | Languages | Libraries | Frameworks | IDEs | Design  | Product / Project Management  |
 |---|---|---|---|---|---|
-| HTML, CSS, JavaScript, ES6, JSX, Handlebars | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI, Dash  | Visual Studio Code, Cloud9 | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Miro, Microsoft Teams, Jira, Trello, Zenhub, Basecamp |
+| HTML, CSS, JavaScript, ES6, JSX, Handlebars | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI  | Visual Studio Code | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Miro, Microsoft Teams, Jira, Trello, Zenhub, Basecamp |
+
+---
+
+### Quivers
+Solving channel conflict through collaborative commerce.
+
+#### User Experience Engineer | April 2021 - Present
+
+|  HTLM+CSS, React.js, Redux, Angular |
+|---|
+| Figma, Jira |
+
+---
 
 ---
 
 ### Rosenblatt LLC
 An applied artificial intelligence lab focused on scalability, efficiency, and sustainability.
 
-#### JobReport - User Experience Engineer | Feb 2021 - Present
-- Leading user experience development and directing creative strategy (concept through deployment) for a progressive web application.
+#### JobReport - User Experience Engineer | Feb 2021 - Mar 2021
+- Leading user experience development and directing creative strategy (concept design and development) for a progressive web application in the fintech space.
 
 |  K8s, Docker, Docker-compose, Terraform, Bash, Boto3, Python, Pandas, Dash (Flask, Plotly, HTLM+CSS, React.js) |
 |---|
