@@ -1,18 +1,22 @@
 # Mackenzie Clark
-#### [clark.rmackenzie@gmail.com](mailto:clark.rmackenzie@gmail.com)  | 732-718-8358  | [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/)  | [GitHub](https://github.com/mackenzieraeclark)
+#### [clark.rmackenzie@gmail.com](mailto:clark.rmackenzie@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mackenzieraeclark/)  | [GitHub](https://github.com/mackenzieraeclark)
 
 I aim to design for and build human-centered solutions by developing digital content through the lens of intentional design.
 
 | Languages | Libraries | Frameworks | IDEs | Design  | Product / Project Management  |
 |---|---|---|---|---|---|
-| HTML, CSS, JavaScript, ES6, JSX, Handlebars | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI  | Visual Studio Code | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Miro, Microsoft Teams, Jira, Trello, Zenhub, Basecamp |
+| HTML, CSS, JavaScript, ES6, JSX, Handlebars | React.js, jQuery, Node.js | Express.js, Bootstrap, Semantic UI  | Visual Studio Code | Figma, XD, Photoshop, Illustrator, Procreate, Canva | Atlasian suite, Basecamp, Miro, Hubspot |
 
 ---
 
 ### Quivers
 Solving channel conflict through collaborative commerce.
 
-#### User Experience Engineer | April 2021 - Present
+#### Product Manager | September 2022 - Present
+
+---
+
+#### User Experience Engineer | April 2021 - September 2022
 
 |  HTLM+CSS, React.js, Redux, Angular |
 |---|
@@ -80,11 +84,6 @@ An independent organization that aims to bridge the gap between research and pra
 
 ## Education
 
-### Columbia Engineering | 2020
-#### Full Stack Software Development Certificate Program
-
-----
-
 ### Florida State University | 2015 - 2019
 #### Bachelor of Science, International Affairs *concentration in Public Administration*
 
@@ -94,7 +93,10 @@ Second Major in Interdisciplinary Humanities: Spanish, Communications, & Digital
 
 ---
 
-## Projects
+### Columbia Engineering | 2020
+#### Full Stack Software Development Certificate Program
+
+### Projects
 
 ### [Borough'd](https://aptreact.web.app/)
 A React-based socially-driven, real estate marketplace and rental listings app for uploading, searching and favoriting crowd-sourced walkthrough videos.
