@@ -9,7 +9,7 @@ Passionate and results-driven Product Manager with a focus on user experience an
 ## Experience
 
 ### Product Manager
-**Quivers, Salt Lake City, UT / Remote**  
+**Quivers, Remote**  
 *September 2022 - Present*
 
 - Lead communications and design efforts for product development across product and engineering teams, ensuring alignment with user needs and business goals.
